@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Add some basic styling to the navbar */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 0px 0;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+/* Style the navigation links */
+.navbar .a {
+    color: #fff;
+    text-decoration: none;
+    padding: 17px 12px;
+    margin: 0px 10px;
+    font-size: 20px;
+}
+.navbar .a:hover {
+    background: white;
+    color: black;
+}
+/* Style the logo */
+.navbar .logo {
+    width: 50px;
+    height: 50px;
+    margin: 0px 20px;
+    border-radius: 5.5px;
+    color: #a900a9;
+    color: #ffffff;
+}
+.top{
+    text-align: center;
+}
+.ai-article{
+    width: 85%;
+    height: 200px;
+    background: rgb(44, 44, 44);
+    margin-left: 7.5%;
+}

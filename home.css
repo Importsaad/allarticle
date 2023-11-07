@@ -1,0 +1,9 @@
+.top{
+    text-align: center;
+}
+.ai-article{
+    width: 85%;
+    height: 200px;
+    background: rgb(44, 44, 44);
+    margin-left: 7.5%;
+}
